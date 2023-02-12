@@ -1,1 +1,3 @@
-Zmina na inny pliku.
+Zmina na inny pliku. 
+
+Dodanie nowej, eksperymentalnej wartości
