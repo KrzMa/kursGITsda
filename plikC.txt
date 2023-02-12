@@ -1,1 +1,1 @@
-Dodanie testowej funkcjonanosci C
+Dodanie testowej funkcjonanosci C z nowoscia 2.0
