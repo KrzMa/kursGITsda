@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Dodanie testowej funkcjonanosci C z nowoscia 2.0
+=======
+Dodanie funkcjonalności C
+>>>>>>> testing
 =======
 Dodanie funkcjonalności C
 >>>>>>> testing
